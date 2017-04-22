@@ -1,0 +1,5 @@
+  
+Time for translating 100 words : 1600
+Time for translating 500 words : 5119
+Time for translating 1000 words : 7657
+Time for translating 5000 words : 22283
